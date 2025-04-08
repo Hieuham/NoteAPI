@@ -44,6 +44,6 @@
                 modifiedAt: DateTime.now(),
                 tags: ['thư giãn'],
                 color: Colors.purpleAccent,
-              },
+              }
       ]
 }
